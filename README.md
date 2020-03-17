@@ -1,5 +1,17 @@
 # Box_Office_Sales
 
+## Release dates
+* Emma: 6 maart
+* Onward: 6 maart
+* The Way Back: 6 maart
+* The Hunt: 13 maart
+* Godzilla vs. Kong: 13 maart
+* My Spy: 13 maart
+* Bloodshot: 13 maart
+* I still believe: 20 maart
+* A quiet place: 20 maart
+* Mulan: 27 maart
+
 ## Document Structuur
 _De datum van wanneer elk document is gescraped, staat in de naam van het document (bv. box_office_06_03_20 is data gescraped op 6 maart 2020)_
 
@@ -38,4 +50,28 @@ Zip file van alle user reviews gevonden op imdb (bv. [Emma](https://www.imdb.com
 Zip file van alle critic reviews gevonden op imdb (bv. [Emma](https://www.imdb.com/title/tt9214832/externalreviews)).
 
 ### 3 twitter
-Tweets van 1 week van alle films
+Tweets van 1 week van alle films. Dit is opgeslitst in earned media en owned media. Earned media zijn de tweets van de twitter pagina's van de films zelf (bv. [Emma](https://twitter.com/emmamovie)). Owned media zijn de tweets gemaakt onder een hashtag van die film.
+
+#### 3.1 twitter accounts
+* https://twitter.com/emmamovie
+* https://twitter.com/DisneysMulan
+* https://twitter.com/TheHuntMovie
+* https://twitter.com/pixaronward
+* https://twitter.com/GodzillaVrsKong
+* https://twitter.com/istillbelieve
+* https://twitter.com/TheHuntMovie
+* https://twitter.com/TheWayBackMovie
+* https://twitter.com/Bloodshot
+* https://twitter.com/quietplacemovie
+
+#### 3.2 Hashtags
+* #EMMA
+* #mulan
+* #TheHuntMovie
+* #PixarOnward
+* #GodzillaVsKong
+* #IStillBelieve
+* #MySpyMovie
+* #TheWayBack
+* #Bloodshot
+* #AQuietPlace
