@@ -50,7 +50,7 @@ Zip file van alle user reviews gevonden op imdb (bv. [Emma](https://www.imdb.com
 Zip file van alle critic reviews gevonden op imdb (bv. [Emma](https://www.imdb.com/title/tt9214832/externalreviews)).
 
 ### 3 twitter
-Tweets van 1 week van alle films. Dit is opgeslitst in earned media en owned media. Earned media zijn de tweets van de twitter pagina's van de films zelf (bv. [Emma](https://twitter.com/emmamovie)). Owned media zijn de tweets gemaakt onder een hashtag van die film.
+Tweets van 1 week van alle films. Dit is opgeslitst in earned media en owned media. Earned media zijn de tweets van de twitter pagina's van de films zelf (bv. [Emma](https://twitter.com/emmamovie)). Owned media zijn de tweets gemaakt onder een hashtag van die film. De laaste paar tweets slaan opgeslagen als .rar ipv .zip omdat deze betere compressie hebben (kleinere file size).
 
 #### 3.1 twitter accounts
 * https://twitter.com/emmamovie
