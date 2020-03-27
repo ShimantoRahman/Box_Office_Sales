@@ -8,9 +8,9 @@
 * Godzilla vs. Kong: ~~13 maart~~
 * My Spy: ~~13 maart~~ verplaatst naar 17 april
 * Bloodshot: 13 maart
-* I still believe: 20 maart
+* I still believe: ~~20 maart~~
 * A quiet place: ~~20 maart~~
-* Mulan: 27 maart
+* Mulan: ~~27 maart~~
 
 ## Document Structuur
 _De datum van wanneer elk document is gescraped, staat in de naam van het document (bv. box_office_06_03_20 is data gescraped op 6 maart 2020)_
